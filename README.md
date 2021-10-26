@@ -6,3 +6,5 @@ Save the file
 Commit our changes
 Pushed to origin(Github.com)
 Check github.com to ensure changes were made
+Added some new commits:
+Foundations of Azure Data Analysis and Machine Learning
